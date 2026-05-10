@@ -4,6 +4,7 @@
 // Program ma wytworzyć poniższy output.
 //  __PRETTY_FUNCTION__ zawiera pełną nazwę funkcji w danym miejscu
 // Po odkomentowaniu zakomentowanych linii w main program ma się nie kompilować.
+// Kod można pisać tylko w wyznaczonych miejscach.
 
 /* 
     MIEJSCE NA KOD 

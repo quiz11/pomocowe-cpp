@@ -22,3 +22,7 @@ int main()
     std::cout << "a_copy=" << a_copy.get()+1 << std::endl;
     std::cout <<" b=" << b.get()+1 << std::endl;
 }
+
+// a=1
+// a_copy=2
+//  b=3

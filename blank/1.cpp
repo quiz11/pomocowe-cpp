@@ -3,6 +3,11 @@
 // w całym kodzie można bezpośrednio wywoływać tylko dwie funkcje: printOn i operator <<
 // wypisywanie może się odbywać tylko z wykorzystaniem __PRETTY_FUNCTION__ i "\n"
 //  __PRETTY_FUNCTION__ zawiera pełną nazwę funkcji w danym miejscu
+// Kod można pisać tylko w wyznaczonych miejscach.
+
+/*
+    MIEJSCE NA KOD
+*/
 
 int main(int argc, char *argv[]) {
 //   B b; //odkomentowanie powoduje błąd kompilacji

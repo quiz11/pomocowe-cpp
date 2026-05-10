@@ -29,9 +29,7 @@ int main(){
     );
 
     std::cout << "\nc dodane 'x': ";
-    // decltype(*std::begin(c)) 
-    // char x = *std::begin(c);
-    decltype(c)::value_type x = 1;
+    /* MIEJSCE NA KOD */
     
     std::for_each(std::begin(c), std::end(c),
         /* MIEJSCE NA KOD */

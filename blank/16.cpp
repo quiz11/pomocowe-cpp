@@ -8,7 +8,6 @@
     MIEJSCE NA KOD
 */
 
-
 int main()
 {
     array<box<>> a = {5, 6, 7}; // Inicjalizacja tablicy z wartościami
@@ -20,3 +19,6 @@ int main()
     print(a); // Wydrukowanie tablicy a
     print(b); // Wydrukowanie tablicy b
 }
+
+// 3 6 2
+// 5 6 7

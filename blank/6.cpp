@@ -5,6 +5,7 @@
 
 // Program ma wytworzyć poniższy output.
 // Program ma nie leakować pamięci.
+// Kod można pisać tylko w wyznaczonych miejscach.
 
 /* 
     MIEJSCE NA KOD 

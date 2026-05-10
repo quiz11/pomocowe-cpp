@@ -1,3 +1,10 @@
+// Program ma wytworzyć poniższy output.
+// Kod można pisać tylko w wyznaczonych miejscach.
+
+/* 
+    MIEJSCE NA KOD 
+*/
+
 int main()
 {
   A a ("Tekst"); B b {123};

@@ -1,6 +1,7 @@
 #include <iostream>
 
 // Program ma wytworzyć poniższy output.
+// Kod można pisać tylko w wyznaczonych miejscach.
 
 /* 
     MIEJSCE NA KOD 

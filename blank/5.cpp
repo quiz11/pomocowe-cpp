@@ -4,6 +4,7 @@
 
 // Program ma wytworzyć poniższy output.
 // Po odkomentowaniu zakomentowanych linii w main program ma się nie kompilować.
+// Kod można pisać tylko w wyznaczonych miejscach.
 
 /* 
     MIEJSCE NA KOD 
